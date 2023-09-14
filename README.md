@@ -1,9 +1,13 @@
 # data_science_datarockiebootcamp_8
 My data portfolio for data analyst role
 
-## What've I learnt from this bootcamp
+## Who am I?
+I am a pharmacist with a passion for pharmacogenetics and data science. I believe that data science has the potential to revolutionise the way we treat diseases and benefit preventive health care. I am excited to be a part of this field and am a fan of SQL, R and Python. I am eager to use my skills to make a difference in the world.
 
-I've learn a lot of stuff related to data science skills. This boot camp composes of 10 sprints as follow;
+## What did learn from the data science bootcamp?
+
+I gain a lot of transferable data science skills. This boot camp is composed of 10 sprints as follows;
+
 1. Intro to data science
 2. Spreadsheets
 3. Database (SQL)
@@ -15,3 +19,4 @@ I've learn a lot of stuff related to data science skills. This boot camp compose
 9. Python Programming
 10. Dashboard
 
+Check out my Link-in-bio: https://linktr.ee/phakapanwalker
